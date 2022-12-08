@@ -3,5 +3,6 @@
   "title": "LF Energy Community Calendar",
   "css": ".dhx_cal_qi_controls { display: none !important; } ",
   "skin": "dhtmlxscheduler_flat.css",
+  "tab": "agenda",
   "target": "_self"
 }
