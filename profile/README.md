@@ -11,3 +11,8 @@ This organization contains the repositories for the core LF Energy Foundation an
 - [tac](https://github.com/lf-energy/tac) is the home of the TAC processes, policies, programs, and meeting minutes.
 
 Learn about all the hosted projects and working groups and how to get involved at [wiki.lfenergy.org/](https://wiki.lfenergy.org/)
+
+Additionally, there are resources available for the working groups that are part of the LF Energy Standards and Specification (LFESS) group.
+
+- [lfess-resources](https://github.com/lf-energy/lfess-resources) contains a number of resources for those participating in LFESS working groups.
+- [lfess-wg-template](https://github.com/lf-energy/lfess-wg-template) is a template repository for use by LFESS working groups, which enables building a Jekyll based website for thier specification.
