@@ -1,18 +1,15 @@
 ![LF Energy Logo](https://artwork.lfenergy.org/other/lf-energy/horizontal/color/lf-energy-horizontal-color.svg)
 
-LF Energy is an open source foundation focused on the power systems sector, hosted within The Linux Foundation. LF Energy provides a neutral, collaborative community to build the shared digital investments that will transform the world’s relationship to energy.
+LF Energy is an open-source foundation focused on the power systems sector, hosted within The Linux Foundation. LF Energy provides a neutral, collaborative community to build the shared digital investments that will transform the world’s relationship with energy.
 
-This organization contains the repositories for the core LF Energy Foundation and many of the hosted projects and working groups. Below is the list of core LF Energy Foundation repositories hosted here.
+This organization contains the core LF Energy Foundation repositories. Below is the list of core LF Energy Foundation repositories hosted here.
 
-- [foundation](https://github.com/lf-energy/foundation), which contains materials on the LF Energy Foundation itself including the charter, policies, overview decks, and program materials.
-- [artwork](https://github.com/lf-energy/artwork) contains artwork for the LF Energy Foundation, it's hosted projects and working groups, and other programs hosted. You can most easily view these assets at [artwork.lfenergy.org](https://artwork.lfenergy.org).
+- [foundation](https://github.com/lf-energy/foundation) contains materials on the LF Energy Foundation itself, including the charter, policies, overview decks, and program materials.
+- [artwork](https://github.com/lf-energy/artwork) contains artwork for the LF Energy Foundation, its hosted projects, working groups, and other programs hosted. You can most easily view these assets at [artwork.lfenergy.org](https://artwork.lfenergy.org).
 - [lfenergy-landscape](https://github.com/lf-energy/lfenergy-landscape) is the source for the LF Energy Foundation Landscape and where you can suggest changes and new entries. You can view the landscape at [landscape.lfenergy.org](https://landscape.lfenergy.org)
-- [tsc-template](https://github.com/lf-energy/tsc-template) is a template for using when starting a new project at the LF Energy Foundation.
+- [tsc-template](https://github.com/lf-energy/tsc-template) is a template for starting a new project at the LF Energy Foundation.
 - [tac](https://github.com/lf-energy/tac) is the home of the TAC processes, policies, programs, and meeting minutes.
 
 Learn about all the hosted projects and working groups and how to get involved at [wiki.lfenergy.org/](https://wiki.lfenergy.org/)
 
-Additionally, there are resources available for the working groups that are part of the LF Energy Standards and Specification (LFESS) group.
-
-- [lfess-resources](https://github.com/lf-energy/lfess-resources) contains a number of resources for those participating in LFESS working groups.
-- [lfess-wg-template](https://github.com/lf-energy/lfess-wg-template) is a template repository for use by LFESS working groups, which enables building a Jekyll based website for thier specification.
+Additionally, resources are available for the working groups that are part of the LF Energy Standards and Specification (LFESS) group in the [lfess GitHub organization](https://github.com/lfess).
